@@ -1,0 +1,16 @@
+PODS:
+  - AGALiPaySDK (1.0.0)
+
+DEPENDENCIES:
+  - AGALiPaySDK (from `../`)
+
+EXTERNAL SOURCES:
+  AGALiPaySDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AGALiPaySDK: fbed43c0d26af9312699ac1d48815c89f092eec2
+
+PODFILE CHECKSUM: 1abcbd7ab32365d4edb8e8cbed11bc69d519a58b
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,6 @@
+framework module AGALiPaySDK {
+  umbrella header "AGALiPaySDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
