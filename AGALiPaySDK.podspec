@@ -14,6 +14,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
   s.requires_arc     = true
+  s.swift_version    = '3.0'
 
   s.vendored_frameworks = 'AGALiPaySDK/AlipaySDK.framework'
   s.resources        = 'AGALiPaySDK/AlipaySDK.bundle'
